@@ -4,7 +4,7 @@ import "./style.scss"
 import DetailsBanner from './detailsbanner/DetailsBanner'
 import Cast from './cast/Cast'
 import VideosSection from './videossection/VideoSection'
-import Similar from "./carousels/similar.jsx"
+import Similar from "./carousels/Similar.jsx"
 import Recommendation from "./carousels/Recommended.jsx"
 const Details = () => {
   const { mediaType, id} = useParams()
