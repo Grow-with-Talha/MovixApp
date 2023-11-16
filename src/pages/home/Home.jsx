@@ -1,8 +1,8 @@
 import "./style.scss"
-import HeroBanner from "./heroBanner/HeroBanner"
+import HeroBanner from "./herobanner/HeroBanner"
 import Trending from "./trending/trending"
-import Popular from "./Popular/Popular"
-import TopRated from "./topRated/Toprated"
+import Popular from "./popular/Popular"
+import TopRated from "./toprated/Toprated"
 
 
 const Home = () => {
