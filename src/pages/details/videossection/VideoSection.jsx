@@ -2,9 +2,9 @@ import React, { useState } from "react";
 
 import "./style.scss";
 
-import ContentWrapper from "../../../components/contentWrapper/ContentWrapper";
+import ContentWrapper from "../../../components/contentwrapper/ContentWrapper";
 import { PlayIcon } from "../PlayBtn";
-import VideoPopup from "../../../components/videoPopup/VideoPopup";
+import VideoPopup from "../../../components/videopopup/VideoPopup";
 import Img from "../../../components/lazyLoadImage/Img";
 
 const VideosSection = ({ data, loading }) => {

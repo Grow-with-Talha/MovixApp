@@ -2,8 +2,8 @@ import { useState } from 'react'
 
 import useFetch from "../../../hooks/useFetch"
 
-import ContentWrapper from '../../../components/contentWrapper/ContentWrapper'
-import SwitchTabs from '../../../components/switchTabs/switchTabs'
+import ContentWrapper from '../../../components/contentwrapper/ContentWrapper'
+import SwitchTabs from '../../../components/switchtabs/switchTabs'
 import Carousel from '../../../components/carousel/Carousel'
 
 
