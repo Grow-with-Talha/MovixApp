@@ -1,9 +1,9 @@
 import { useParams } from 'react-router-dom'
 import useFetch from '../../hooks/useFetch'
 import "./style.scss"
-import DetailsBanner from './detailsBanner/detailsBanner'
+import DetailsBanner from './detailsbanner/detailsBanner'
 import Cast from './cast/Cast'
-import VideosSection from './videosSection/VideoSection'
+import VideosSection from './videossection/VideoSection'
 import Similar from "./carousels/similar.jsx"
 import Recommendation from "./carousels/Recommended.jsx"
 const Details = () => {
