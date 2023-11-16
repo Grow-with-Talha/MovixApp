@@ -1,6 +1,6 @@
 import "./style.scss"
 import HeroBanner from "./herobanner/HeroBanner"
-import Trending from "./trending/trending"
+import Trending from "./trending/Trending"
 import Popular from "./popular/Popular"
 import TopRated from "./toprated/Toprated"
 
